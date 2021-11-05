@@ -12,6 +12,8 @@ TEST
 test
 Test
 
+<?= "TEST PHP" ?>
+
 </Body>
 </Html>
 
